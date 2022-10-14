@@ -16,3 +16,4 @@ Open index.html with liveserver....Happy coding
 ```sh
 127.0.0.1:5500
 ```
+![My Image](./img/snapshot.png)
